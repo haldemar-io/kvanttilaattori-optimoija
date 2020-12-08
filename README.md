@@ -3,5 +3,5 @@ Optimoi kvanttilaattorin toimintaa.
 ## Käyttö
 Komentorivillä
 ```
-./kvanttilaattori-optimoija PARAM PARAM PARAM ...
+./kvanttilaattori_optimoija PARAM PARAM PARAM ...
 ```
