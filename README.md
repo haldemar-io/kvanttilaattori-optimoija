@@ -3,5 +3,5 @@ Optimoi kvanttilaattorin toimintaa.
 ## Käyttö
 Komentorivillä
 ```
-./kvanttilaattori-optimoija_x86_linux PARAM PARAM PARAM ...
+./kvanttilaattori-optimoija PARAM PARAM PARAM ...
 ```
